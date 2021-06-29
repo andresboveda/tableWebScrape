@@ -1,7 +1,7 @@
 #!/usr/bin/python3.8
 
 #This script will send me the Top 30 Chess player rankings to my inbox on the 3rd day of each month.
-#It will send as an HTML table embedded in the body of an email.
+#It will send as an HTML table embedded in the body of an email
 #The email provider of choice is MailJet and its API
 
 
